@@ -6,5 +6,6 @@
 				<content></content>
 			</Page>
 		</pages>
+		
 	</App>
 </mvc:View>
